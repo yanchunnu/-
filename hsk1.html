@@ -1,0 +1,12 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HSK 1급 듣기 음원</title>
+<style>body{font-family:system-ui,sans-serif;background:#f1f6f8;color:#183644;margin:0;padding:28px 18px}main{max-width:600px;margin:30px auto;background:white;border-radius:20px;padding:28px;box-shadow:0 8px 35px #163f5010}h1{font-size:27px;margin:12px 0}h2{font-size:23px;color:#15546b}.tag{color:#486b7b;font-size:14px}label{display:block;margin:18px 0 8px}select{font:inherit;padding:12px;width:100%;border:1px solid #a6bdc7;border-radius:9px;background:white;color:inherit}audio{width:100%;margin:22px 0}p{line-height:1.7}a{color:#135675}#error{color:#b42318}.note{font-size:14px;color:#5f7480}footer{border-top:1px solid #e5edf0;margin-top:28px;padding-top:18px}</style>
+<main><div class="tag">HSK3.0 · 1급 모의고사</div><h1>듣기 음원</h1><h2 id="title"></h2>
+<label for="set">세트</label><select id="set"></select><label for="part">부분</label><select id="part"><option value="1">第一部分 · 문장과 그림</option><option value="2">第二部分 · 질문과 대답</option><option value="3">第三部分 · 대화와 그림</option></select>
+<audio id="audio" controls preload="metadata"></audio><p id="error" hidden>음원을 불러오지 못했습니다. 잠시 후 다시 열거나 아래 MP3 링크를 이용해 주세요.</p><p>재생 버튼을 누르면 선택한 부분만 들을 수 있습니다.<br>각 5문항을 두 번씩 읽으며, 문항 사이에 답을 고를 시간이 있습니다.</p><p><a id="download" download>MP3 파일 열기 / 저장</a></p><footer class="note">중국어 남녀 합성음성 · 학습용 음원<br>시험지의 세트 번호와 부분을 확인해 주세요.</footer></main>
+<script>
+const sel=document.getElementById('set'),part=document.getElementById('part'),audio=document.getElementById('audio'),title=document.getElementById('title'),link=document.getElementById('download'),err=document.getElementById('error');
+for(let n=1;n<=10;n++){let o=document.createElement('option');o.value=n;o.textContent=`세트${n}`;sel.append(o)}
+const query=new URLSearchParams(location.search);sel.value=String(Math.min(10,Math.max(1,Number(query.get('set'))||1)));part.value=String(Math.min(3,Math.max(1,Number(query.get('part'))||1)));
+function update(){audio.pause();let file=`hsk1-set${sel.value.padStart(2,'0')}-part${part.value}.mp3`;audio.src=file;link.href=file;title.textContent=`세트${sel.value} · ${['第一部分','第二部分','第三部分'][+part.value-1]}`;err.hidden=true;history.replaceState(null,'',`?set=${sel.value}&part=${part.value}`);document.title=title.textContent+' | HSK 1급 듣기'}
+sel.addEventListener('change',update);part.addEventListener('change',update);audio.addEventListener('error',()=>err.hidden=false);update();
+</script></html>
