@@ -398,5 +398,905 @@
     "seconds": 343.24,
     "bytes": 2746604,
     "sha256": "e8de07a25eaefc5601be264be896c2a1bb3f93b52693f438f65cfbc2d117ee30"
+  },
+  {
+    "set": 1,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set01-g01_04.mp3",
+    "seconds": 116.23,
+    "bytes": 387260,
+    "sha256": "a8d9ad58676037deb9d42d374f2d0241078041081c449624baa823f4d6993254"
+  },
+  {
+    "set": 1,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set01-g05_08.mp3",
+    "seconds": 117.38,
+    "bytes": 392828,
+    "sha256": "10c36f79035c6521d7ec909e19f1c9704b60eac64b85c5e859255be4b020c375"
+  },
+  {
+    "set": 1,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set01-g09_12.mp3",
+    "seconds": 117.02,
+    "bytes": 387692,
+    "sha256": "338ea965ee4ac405bae75e6974b83b4a5ee6e556f1f60ef425bf16039d8dd0fb"
+  },
+  {
+    "set": 1,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set01-g13_16.mp3",
+    "seconds": 118.58,
+    "bytes": 406796,
+    "sha256": "47e93159dbe953a853ec4df551ba2bb2e5b5d0f96038f9ef18e9b1880d9c8761"
+  },
+  {
+    "set": 1,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set01-g17_20.mp3",
+    "seconds": 121.03,
+    "bytes": 414140,
+    "sha256": "0f5d157c14972d09b9daeb1cb3574eba1511625bb99020f465e15dfc7656aedd"
+  },
+  {
+    "set": 1,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set01-g21_23.mp3",
+    "seconds": 88.31,
+    "bytes": 291740,
+    "sha256": "53a102b85605a51b851d2e3bf48fc150c5aa88e9778f373a60689f14e943ef1b"
+  },
+  {
+    "set": 1,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set01-g24_26.mp3",
+    "seconds": 90.04,
+    "bytes": 326540,
+    "sha256": "9c7fb83861b770af11667985834e5df4474530ab3e12cdbd480d61c1aa58b81d"
+  },
+  {
+    "set": 1,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set01-g27_29.mp3",
+    "seconds": 88.41,
+    "bytes": 299228,
+    "sha256": "730d941ae4e04b1bb5a23261d3b2469c0223aad9b10ec3688eb0d65592404fa5"
+  },
+  {
+    "set": 1,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set01-g30_32.mp3",
+    "seconds": 92.65,
+    "bytes": 345092,
+    "sha256": "e513f5e50b8df83a555231c61c91e83e23a922902a52d4c0b96fa1b01859828e"
+  },
+  {
+    "set": 1,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set01-g33_35.mp3",
+    "seconds": 89.63,
+    "bytes": 298028,
+    "sha256": "43bca5cb16ba80585065fb82f534499fd250da963bbf73df41884a818808fd01"
+  },
+  {
+    "set": 2,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set02-g01_04.mp3",
+    "seconds": 118.53,
+    "bytes": 397652,
+    "sha256": "fcb1a4ec7e9819599f713f64061a1a282ea3681685a37e822ffd930a4643aa15"
+  },
+  {
+    "set": 2,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set02-g05_08.mp3",
+    "seconds": 119.83,
+    "bytes": 409796,
+    "sha256": "4080ba8ca6f99ebf5aa34e58bd2c24a0554a13b3d5d7d42964abcac26d20ce9f"
+  },
+  {
+    "set": 2,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set02-g09_12.mp3",
+    "seconds": 120.93,
+    "bytes": 420572,
+    "sha256": "7f38871c4043c51f2c253885603df2cf1e662160e8f239dc1a931451638034ae"
+  },
+  {
+    "set": 2,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set02-g13_16.mp3",
+    "seconds": 120.79,
+    "bytes": 414908,
+    "sha256": "7105ab6f808872b3f6b9bafaecee10904e75b29cad4009410aeacc0dfdf81d63"
+  },
+  {
+    "set": 2,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set02-g17_20.mp3",
+    "seconds": 121.34,
+    "bytes": 416348,
+    "sha256": "fcc54b54d4fd7f4c35faeff41a940320410f38eaacf1444bd36d41a3dd14a81f"
+  },
+  {
+    "set": 2,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set02-g21_23.mp3",
+    "seconds": 89.03,
+    "bytes": 296276,
+    "sha256": "dfbfb74e541dd4ed38a3f26f8ef26c0df200d3795f64e10b4665cf5aef9bf47f"
+  },
+  {
+    "set": 2,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set02-g24_26.mp3",
+    "seconds": 93.16,
+    "bytes": 350564,
+    "sha256": "b87cf58e8d29799cb57a2378ed303094d042f5717aea5980191738338ca73f60"
+  },
+  {
+    "set": 2,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set02-g27_29.mp3",
+    "seconds": 91.12,
+    "bytes": 312692,
+    "sha256": "d636f834e7be999b0d1a3ae2205d0e5a2be876a83f14d398a3b2902a382e12b3"
+  },
+  {
+    "set": 2,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set02-g30_32.mp3",
+    "seconds": 91.02,
+    "bytes": 334532,
+    "sha256": "09ee2682ef5eaf4e0e28d9837787c7ba9b9c627ed8ea98038e921bbc67029eea"
+  },
+  {
+    "set": 2,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set02-g33_35.mp3",
+    "seconds": 89.2,
+    "bytes": 296396,
+    "sha256": "53774ea9cfccc42d584ce2dcbd6b47f208a5723de6b998520b87fd62fa0f0f13"
+  },
+  {
+    "set": 3,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set03-g01_04.mp3",
+    "seconds": 119.01,
+    "bytes": 400412,
+    "sha256": "8d018466ad5937426903d13bbe7f9a03bba09995c74bb5ecdbb901015801a5cb"
+  },
+  {
+    "set": 3,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set03-g05_08.mp3",
+    "seconds": 122.06,
+    "bytes": 421196,
+    "sha256": "d77717d064e5ea0fadd9e5fa9ad116d85bf3dbe33aa60b158b73566df9f9ed92"
+  },
+  {
+    "set": 3,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set03-g09_12.mp3",
+    "seconds": 120.33,
+    "bytes": 412172,
+    "sha256": "cd044003eef795bcbb58c18cd7404920a319c90ed7ae151de55662cb2750961c"
+  },
+  {
+    "set": 3,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set03-g13_16.mp3",
+    "seconds": 121.89,
+    "bytes": 424484,
+    "sha256": "be1f1346e8653fede76af3f9f036780783c536f563273a35c561215ba97d60e2"
+  },
+  {
+    "set": 3,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set03-g17_20.mp3",
+    "seconds": 124.31,
+    "bytes": 428540,
+    "sha256": "3300c245bdd530f1c504d7631bd5b32d1d70a6b099879c4bc0fc916a1bf3aeb6"
+  },
+  {
+    "set": 3,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set03-g21_23.mp3",
+    "seconds": 87.28,
+    "bytes": 288572,
+    "sha256": "99546be48b0dd01dd7be1d92f61fb27eeb8672101f72eda0adfc83a253f5f617"
+  },
+  {
+    "set": 3,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set03-g24_26.mp3",
+    "seconds": 92.05,
+    "bytes": 340100,
+    "sha256": "a0b0cc70b356e58638807ac1849e1b032e5eac13d6aa9ab54d2040def2f90862"
+  },
+  {
+    "set": 3,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set03-g27_29.mp3",
+    "seconds": 90.83,
+    "bytes": 314012,
+    "sha256": "8f35c3df0fc149aaa2c973e7c80319d5ee72edca0985cd07a942d07b48eb44c4"
+  },
+  {
+    "set": 3,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set03-g30_32.mp3",
+    "seconds": 89.44,
+    "bytes": 326660,
+    "sha256": "e59bbdce22264b5a608a2f938bf546f7310cc80fe661282bddd7d53c5bb14994"
+  },
+  {
+    "set": 3,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set03-g33_35.mp3",
+    "seconds": 90.3,
+    "bytes": 308204,
+    "sha256": "259152e134d9aa3bea5e99610f2373c46725bf5069ca8c9df33b2b30fe6a6f16"
+  },
+  {
+    "set": 4,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set04-g01_04.mp3",
+    "seconds": 119.66,
+    "bytes": 405620,
+    "sha256": "78a490cd3ec5d37370d46aac29c711ecfc2454bdc9b9f2579b7f5a3a9e2e1df2"
+  },
+  {
+    "set": 4,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set04-g05_08.mp3",
+    "seconds": 122.97,
+    "bytes": 423764,
+    "sha256": "11a3f20973f53ae9593125825fbe0654953bdba2e7a75c28e829b2982749146e"
+  },
+  {
+    "set": 4,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set04-g09_12.mp3",
+    "seconds": 120.5,
+    "bytes": 414356,
+    "sha256": "b2b313efb23fd82ee840208203bf9eee6346e9134994fb7d20d57c4a4dd3a1ff"
+  },
+  {
+    "set": 4,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set04-g13_16.mp3",
+    "seconds": 122.25,
+    "bytes": 423956,
+    "sha256": "206cd943f665d336235418dd6348ab2b5a83c1b86ad5b5b87a0d96429df304d9"
+  },
+  {
+    "set": 4,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set04-g17_20.mp3",
+    "seconds": 123.33,
+    "bytes": 423524,
+    "sha256": "23509f7b1f5e337ef4bb2148ba529d602456dc5f36d71064020d6df367ffaede"
+  },
+  {
+    "set": 4,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set04-g21_23.mp3",
+    "seconds": 89.22,
+    "bytes": 299228,
+    "sha256": "4b1d0ec66780f5018086cdb5c559316522258e89756d6ceebeac6793d16e9b64"
+  },
+  {
+    "set": 4,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set04-g24_26.mp3",
+    "seconds": 93.42,
+    "bytes": 347828,
+    "sha256": "67b34a59dd317ecf82ea672186fca96c5ebd168a15ed0f9dc397a1a84193bebb"
+  },
+  {
+    "set": 4,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set04-g27_29.mp3",
+    "seconds": 89.25,
+    "bytes": 302444,
+    "sha256": "12d98fdc68ff68692ad94de993808741ba212c566947efa9121275b6b5cb20cd"
+  },
+  {
+    "set": 4,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set04-g30_32.mp3",
+    "seconds": 89.87,
+    "bytes": 327476,
+    "sha256": "e63786fda877decabcbb6d245c225a4d46cc3257658a4ce9e0d0996c99fe1e8e"
+  },
+  {
+    "set": 4,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set04-g33_35.mp3",
+    "seconds": 88.43,
+    "bytes": 295388,
+    "sha256": "dfe596900167bd0572eba79492a7e9b9f14fd35e0eb384bffd999f026702ce71"
+  },
+  {
+    "set": 5,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set05-g01_04.mp3",
+    "seconds": 117.21,
+    "bytes": 387788,
+    "sha256": "d6682a3e8a78023d7537d30fe07f109e45272bb038ed5295cb7ea26d2907e1a0"
+  },
+  {
+    "set": 5,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set05-g05_08.mp3",
+    "seconds": 120.33,
+    "bytes": 412028,
+    "sha256": "9f02e3110c81ea8fdfb916623c1b55c5a25475087250bf8384ffdc4f60a023ab"
+  },
+  {
+    "set": 5,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set05-g09_12.mp3",
+    "seconds": 121.24,
+    "bytes": 418724,
+    "sha256": "115797618365b3e0a978fc0eafd10db73a9104e3082ea3ce8b8fc8d54eef009f"
+  },
+  {
+    "set": 5,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set05-g13_16.mp3",
+    "seconds": 122.71,
+    "bytes": 425828,
+    "sha256": "f8878bedf3be861ffa1f05ae0c8c93c013f1ab33abdd5a0c21c33664f33c2ec1"
+  },
+  {
+    "set": 5,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set05-g17_20.mp3",
+    "seconds": 124.22,
+    "bytes": 431972,
+    "sha256": "38cc610485ae4c3456ad736545425967f3d2ddb81bd7c21f31cf092197ade9e8"
+  },
+  {
+    "set": 5,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set05-g21_23.mp3",
+    "seconds": 87.37,
+    "bytes": 287684,
+    "sha256": "216c77bcf3020d177fbf186fe73b1657606cfba492ed7af85c3354b9f8c4b707"
+  },
+  {
+    "set": 5,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set05-g24_26.mp3",
+    "seconds": 91.21,
+    "bytes": 337460,
+    "sha256": "3fa0d6dd55313cc968c02c43f5f6305eb4b1ffa2e2ec80e79a1ea36c9c5086b2"
+  },
+  {
+    "set": 5,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set05-g27_29.mp3",
+    "seconds": 89.68,
+    "bytes": 298748,
+    "sha256": "6969317993e73522360620409b2430c6e8d47fe2b13c7e5f847c2719dcd73c67"
+  },
+  {
+    "set": 5,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set05-g30_32.mp3",
+    "seconds": 89.77,
+    "bytes": 329756,
+    "sha256": "6a92ecfc2a8f000c531c561a27132b68d62f8d7aa8bc4feb5a4039252639ade5"
+  },
+  {
+    "set": 5,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set05-g33_35.mp3",
+    "seconds": 89.99,
+    "bytes": 306788,
+    "sha256": "e9a64ce3f90500aef8fe344bf8e39f72674842679597acb46f4e93f0ece486c9"
+  },
+  {
+    "set": 6,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set06-g01_04.mp3",
+    "seconds": 118.55,
+    "bytes": 402044,
+    "sha256": "4408d6ab71cdf3b3a288e0218c38556575a987609bdc58bf5d59eb22a1745068"
+  },
+  {
+    "set": 6,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set06-g05_08.mp3",
+    "seconds": 118.96,
+    "bytes": 400820,
+    "sha256": "f61f52ce92199da48957c7cb179afd7d7a484777b758c3812ea4ba00ba7fcc1c"
+  },
+  {
+    "set": 6,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set06-g09_12.mp3",
+    "seconds": 120.16,
+    "bytes": 411236,
+    "sha256": "d5d05824f9b200badd4955effc90d4a0b989cdce3fd399747233d4f84196e9ea"
+  },
+  {
+    "set": 6,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set06-g13_16.mp3",
+    "seconds": 121.67,
+    "bytes": 423020,
+    "sha256": "60dc0d230544861978e12aabc93fdb9db62ac1fddf4afad81d8e5c364f1f32ec"
+  },
+  {
+    "set": 6,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set06-g17_20.mp3",
+    "seconds": 123.95,
+    "bytes": 428756,
+    "sha256": "8b55922d1d734582bce266a5de42d5a2e717519205fab2dc7fd6e3a3a150ba6f"
+  },
+  {
+    "set": 6,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set06-g21_23.mp3",
+    "seconds": 88.77,
+    "bytes": 297620,
+    "sha256": "9bcabb6053319d9f5a88d555aa7cfdcf1e91082e466ac726b62b57573923463a"
+  },
+  {
+    "set": 6,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set06-g24_26.mp3",
+    "seconds": 92.68,
+    "bytes": 342620,
+    "sha256": "f885c06ca91bdbd6d782b2ec6fbe9f0d13f42b8939d56cf0452beca066986342"
+  },
+  {
+    "set": 6,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set06-g27_29.mp3",
+    "seconds": 87.71,
+    "bytes": 294860,
+    "sha256": "e58c94903b30d415fa554032e6d1e2256db7fc3890295675910a70e588a1fed9"
+  },
+  {
+    "set": 6,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set06-g30_32.mp3",
+    "seconds": 91.48,
+    "bytes": 338564,
+    "sha256": "2e4625d331ede67fd4321f6b06a85b72561e794d5f64d15ac0fc1b74980d1af8"
+  },
+  {
+    "set": 6,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set06-g33_35.mp3",
+    "seconds": 91.24,
+    "bytes": 306692,
+    "sha256": "0a3fa6bd94818b4a07061d79c20e9ed1a9b4370a3e484e227f466a98ff86f11d"
+  },
+  {
+    "set": 7,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set07-g01_04.mp3",
+    "seconds": 122.99,
+    "bytes": 427124,
+    "sha256": "1c7bb8edaefa4706783bd3887421edd88897b9a7cc4f5d36c39396ce8f5cea64"
+  },
+  {
+    "set": 7,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set07-g05_08.mp3",
+    "seconds": 124.77,
+    "bytes": 434564,
+    "sha256": "de064cd68bec508b509fd25e416ab45ddf876f7eaaf6178079dd33cc34740865"
+  },
+  {
+    "set": 7,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set07-g09_12.mp3",
+    "seconds": 122.3,
+    "bytes": 427412,
+    "sha256": "6fda72dba9fbf2d0b58149ef05e687f64c0c9f9f7e36bd476e89bb2727de38e5"
+  },
+  {
+    "set": 7,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set07-g13_16.mp3",
+    "seconds": 125.03,
+    "bytes": 442532,
+    "sha256": "4684013d401ec96e632eef8f29edae028a13166bb55f428030ffa220d2620e60"
+  },
+  {
+    "set": 7,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set07-g17_20.mp3",
+    "seconds": 123.47,
+    "bytes": 425780,
+    "sha256": "a0cdfbe499bd4e0d64638b788fa9b3164bbe2388c67f742450784fef3b19a7b3"
+  },
+  {
+    "set": 7,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set07-g21_23.mp3",
+    "seconds": 89.99,
+    "bytes": 305900,
+    "sha256": "59423788e29dc3d5e9b39bbbf59b3d5a087c37691527a90809b96e497e4289d7"
+  },
+  {
+    "set": 7,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set07-g24_26.mp3",
+    "seconds": 92.94,
+    "bytes": 345836,
+    "sha256": "fbf1e4f6b8020e642ad9db163386ff38bc352f3b8d7dd7faecae5196440c5ed7"
+  },
+  {
+    "set": 7,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set07-g27_29.mp3",
+    "seconds": 88.6,
+    "bytes": 293660,
+    "sha256": "556d67f83d333be40f4d23321398245e2056708adb8efee8cf50d23eb9975066"
+  },
+  {
+    "set": 7,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set07-g30_32.mp3",
+    "seconds": 92.56,
+    "bytes": 341996,
+    "sha256": "461291a996362223e3ad6caf0b0ba5e31382631456b1f44d9af5001226daa5dd"
+  },
+  {
+    "set": 7,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set07-g33_35.mp3",
+    "seconds": 91.86,
+    "bytes": 315140,
+    "sha256": "3b5f159edbbd276ad092e8b4315567a4636bb6552505d2b757dbae9de619f663"
+  },
+  {
+    "set": 8,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set08-g01_04.mp3",
+    "seconds": 122.03,
+    "bytes": 421292,
+    "sha256": "4ef1430a6935f6487717965f870773d4cb14257dcbf7eb4b97c4b70655844c47"
+  },
+  {
+    "set": 8,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set08-g05_08.mp3",
+    "seconds": 122.97,
+    "bytes": 423188,
+    "sha256": "d5a97dc24f84b546377e1359f4fa58891928c9f8ff35644f32bcecf2cec83a72"
+  },
+  {
+    "set": 8,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set08-g09_12.mp3",
+    "seconds": 121.24,
+    "bytes": 418316,
+    "sha256": "225f18aeecfa14df9b69d754659343273c93ba2c345054674a26ab6f5260c77a"
+  },
+  {
+    "set": 8,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set08-g13_16.mp3",
+    "seconds": 124.91,
+    "bytes": 440732,
+    "sha256": "ebd702c35d45f6ceb23c5ff32d91e41982714b0ad0ca29187e0dbad653a958de"
+  },
+  {
+    "set": 8,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set08-g17_20.mp3",
+    "seconds": 122.3,
+    "bytes": 416060,
+    "sha256": "804976bdca70121a027fc1e3179fe513b19b822b05ef0db6ebf3e43d240843a5"
+  },
+  {
+    "set": 8,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set08-g21_23.mp3",
+    "seconds": 89.53,
+    "bytes": 299924,
+    "sha256": "abc64b3d0484bb5041676b6a2c1884bbce6e105527c852b93cb0459036f373a8"
+  },
+  {
+    "set": 8,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set08-g24_26.mp3",
+    "seconds": 88.74,
+    "bytes": 323060,
+    "sha256": "fc83a793e81ce548d1046b2069858725275780c7015226e07bf802f37b427914"
+  },
+  {
+    "set": 8,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set08-g27_29.mp3",
+    "seconds": 88.26,
+    "bytes": 297260,
+    "sha256": "bd43e297ff9297b2722d519e074e9a6fa941a035d5211237b91637fd2db80245"
+  },
+  {
+    "set": 8,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set08-g30_32.mp3",
+    "seconds": 89.82,
+    "bytes": 329924,
+    "sha256": "fe9556a678c1a393ab9a65de1bff9cae75ecc28b532a40dec4ef95cee4ed5953"
+  },
+  {
+    "set": 8,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set08-g33_35.mp3",
+    "seconds": 87.47,
+    "bytes": 292076,
+    "sha256": "efed94ef6b7da8e0f072d00656a2fbf496959ab49a90181e76ed15972a416114"
+  },
+  {
+    "set": 9,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set09-g01_04.mp3",
+    "seconds": 120.04,
+    "bytes": 411764,
+    "sha256": "18f1bcb9378e7b71f4f50699b4b178d881af7cd08b80781990aff041deb274ca"
+  },
+  {
+    "set": 9,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set09-g05_08.mp3",
+    "seconds": 124.51,
+    "bytes": 431012,
+    "sha256": "86d9d291577d2260a4853855e3fbb884dca9fceb7bc5b1a76cf457bdffe37cc8"
+  },
+  {
+    "set": 9,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set09-g09_12.mp3",
+    "seconds": 122.59,
+    "bytes": 424532,
+    "sha256": "3c9a194df7af50cab6d45630931130d9b973b06d07fd0c86d48ecbbb7c1dd566"
+  },
+  {
+    "set": 9,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set09-g13_16.mp3",
+    "seconds": 123.16,
+    "bytes": 428564,
+    "sha256": "eb3bbae283345441ce70cc95277f86368fc4a2d31221be34e6f92e09cf3bf922"
+  },
+  {
+    "set": 9,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set09-g17_20.mp3",
+    "seconds": 124.43,
+    "bytes": 430532,
+    "sha256": "9d3a379e5bf918f5083fb9af00bcab2fe5d27c1593b3bc5324cd51c43ca881eb"
+  },
+  {
+    "set": 9,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set09-g21_23.mp3",
+    "seconds": 90.04,
+    "bytes": 302420,
+    "sha256": "5bff6821afce09836b2ade08d01628ed3fb19a9b82ea9e6b22c303616f4f8d2c"
+  },
+  {
+    "set": 9,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set09-g24_26.mp3",
+    "seconds": 91.93,
+    "bytes": 343436,
+    "sha256": "bec12068aaecb70f542f6d2ab7d2c9cc5bf9f7b2f234f2f71cd4777616e371e0"
+  },
+  {
+    "set": 9,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set09-g27_29.mp3",
+    "seconds": 90.01,
+    "bytes": 310292,
+    "sha256": "5bcb212db4d960cd2ec939e3f463fb94272fe7cfe4327efbe1ea7dd03b29be19"
+  },
+  {
+    "set": 9,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set09-g30_32.mp3",
+    "seconds": 91.81,
+    "bytes": 339668,
+    "sha256": "a5dbcdcd6a5402126bff65542b585af1dbfc2a8bb8ee9931ab005f565323f26a"
+  },
+  {
+    "set": 9,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set09-g33_35.mp3",
+    "seconds": 89.46,
+    "bytes": 301532,
+    "sha256": "46c46b80f79f28d23e7e295565cece1937d8043eb8cd7727dfc1a82cd86fa0ef"
+  },
+  {
+    "set": 10,
+    "part": "g01_04",
+    "label": "听力 第1—4题",
+    "file": "hsk5-set10-g01_04.mp3",
+    "seconds": 120.19,
+    "bytes": 408884,
+    "sha256": "64fdfecd560d8edc444ffbac31caa67334ad1d547cf50c322145568482f68375"
+  },
+  {
+    "set": 10,
+    "part": "g05_08",
+    "label": "听力 第5—8题",
+    "file": "hsk5-set10-g05_08.mp3",
+    "seconds": 123.57,
+    "bytes": 425756,
+    "sha256": "a225695ae4c3a0414325a45b52b88caedd9c65df4220ee27961c86edac13d166"
+  },
+  {
+    "set": 10,
+    "part": "g09_12",
+    "label": "听力 第9—12题",
+    "file": "hsk5-set10-g09_12.mp3",
+    "seconds": 122.37,
+    "bytes": 426524,
+    "sha256": "a18770ecb18a83d00244a5a969473d2e308ed28a40643ce9ade3f62654d79930"
+  },
+  {
+    "set": 10,
+    "part": "g13_16",
+    "label": "听力 第13—16题",
+    "file": "hsk5-set10-g13_16.mp3",
+    "seconds": 122.13,
+    "bytes": 423452,
+    "sha256": "4003ebabd9820d93d1b9dac02aa6fd663ccc11f5d488c18939f2b3c5c8eb7f39"
+  },
+  {
+    "set": 10,
+    "part": "g17_20",
+    "label": "听力 第17—20题",
+    "file": "hsk5-set10-g17_20.mp3",
+    "seconds": 126.04,
+    "bytes": 441332,
+    "sha256": "97063c1839bb20ea376100e8a520e22d38e19f72b517b7d9c2ee46883db98351"
+  },
+  {
+    "set": 10,
+    "part": "g21_23",
+    "label": "听力 第21—23题",
+    "file": "hsk5-set10-g21_23.mp3",
+    "seconds": 90.3,
+    "bytes": 303644,
+    "sha256": "08b01658625e7892b132b5033ff32522020bc76c5b233acb9bf420411d1187bc"
+  },
+  {
+    "set": 10,
+    "part": "g24_26",
+    "label": "听力 第24—26题",
+    "file": "hsk5-set10-g24_26.mp3",
+    "seconds": 91.74,
+    "bytes": 339308,
+    "sha256": "e5f8828c1ece8750d69db59528e0195bdb478feaa72b9606f2022ab782a88598"
+  },
+  {
+    "set": 10,
+    "part": "g27_29",
+    "label": "听力 第27—29题",
+    "file": "hsk5-set10-g27_29.mp3",
+    "seconds": 91.0,
+    "bytes": 311204,
+    "sha256": "8de1d05f69d8183705ce348bc66cbf191bf9aaf174978631b994afc170e3f268"
+  },
+  {
+    "set": 10,
+    "part": "g30_32",
+    "label": "听力 第30—32题",
+    "file": "hsk5-set10-g30_32.mp3",
+    "seconds": 91.77,
+    "bytes": 339092,
+    "sha256": "c87faa8e229fa31b66584e2dc2698788f16387b7c0334679cce2d76c5a5acdaf"
+  },
+  {
+    "set": 10,
+    "part": "g33_35",
+    "label": "听力 第33—35题",
+    "file": "hsk5-set10-g33_35.mp3",
+    "seconds": 90.54,
+    "bytes": 305156,
+    "sha256": "93cec102f0f3aea469f417bab971c7d00790526e1888ed2043ff05b4b8f58e4c"
   }
 ]
