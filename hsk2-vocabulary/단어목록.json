@@ -1,0 +1,1782 @@
+[
+  {
+    "page": 1,
+    "category": "인사와 도움",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 301,
+        "word": "啊",
+        "pinyin": "a",
+        "meaning": "아!(감탄사)",
+        "example": "啊，你来了！",
+        "spoken": "啊"
+      },
+      {
+        "id": 305,
+        "word": "帮",
+        "pinyin": "bāng",
+        "meaning": "돕다",
+        "example": "我帮你拿东西。",
+        "spoken": "帮"
+      },
+      {
+        "id": 306,
+        "word": "帮忙",
+        "pinyin": "bāngmáng",
+        "meaning": "도와주다",
+        "example": "你能帮忙吗？",
+        "spoken": "帮忙"
+      },
+      {
+        "id": 312,
+        "word": "不好意思",
+        "pinyin": "bù hǎoyìsi",
+        "meaning": "부끄럽다, 죄송합니다",
+        "example": "不好意思，我来晚了。",
+        "spoken": "不好意思"
+      },
+      {
+        "id": 342,
+        "word": "告诉",
+        "pinyin": "gàosu",
+        "meaning": "알려주다",
+        "example": "请告诉我你的名字。",
+        "spoken": "告诉"
+      },
+      {
+        "id": 368,
+        "word": "介绍",
+        "pinyin": "jièshào",
+        "meaning": "소개하다",
+        "example": "请介绍一下你自己。",
+        "spoken": "介绍"
+      },
+      {
+        "id": 437,
+        "word": "送",
+        "pinyin": "sòng",
+        "meaning": "보내다, 배웅하다, 선물하다",
+        "example": "我送你回家。",
+        "spoken": "送"
+      },
+      {
+        "id": 458,
+        "word": "笑",
+        "pinyin": "xiào",
+        "meaning": "웃다",
+        "example": "她笑了。",
+        "spoken": "笑"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=01"
+  },
+  {
+    "page": 2,
+    "category": "가족과 사람",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 407,
+        "word": "奶奶",
+        "pinyin": "nǎinai",
+        "meaning": "할머니",
+        "example": "我奶奶身体很好。",
+        "spoken": "奶奶"
+      },
+      {
+        "id": 409,
+        "word": "男孩儿",
+        "pinyin": "nánháir",
+        "meaning": "남자아이",
+        "example": "那个男孩儿是我弟弟。",
+        "spoken": "男孩儿"
+      },
+      {
+        "id": 412,
+        "word": "女孩儿",
+        "pinyin": "nǚháir",
+        "meaning": "여자아이",
+        "example": "那个女孩儿很漂亮。",
+        "spoken": "女孩儿"
+      },
+      {
+        "id": 421,
+        "word": "妻子",
+        "pinyin": "qīzi",
+        "meaning": "아내",
+        "example": "他的妻子是医生。",
+        "spoken": "妻子"
+      },
+      {
+        "id": 459,
+        "word": "小孩儿",
+        "pinyin": "xiǎoháir",
+        "meaning": "어린아이",
+        "example": "那个小孩儿在玩儿。",
+        "spoken": "小孩儿"
+      },
+      {
+        "id": 462,
+        "word": "姓",
+        "pinyin": "xìng",
+        "meaning": "성이 ~이다 / 성씨",
+        "example": "我姓王。",
+        "spoken": "姓"
+      },
+      {
+        "id": 463,
+        "word": "姓名",
+        "pinyin": "xìngmíng",
+        "meaning": "성명",
+        "example": "请写你的姓名。",
+        "spoken": "姓名"
+      },
+      {
+        "id": 470,
+        "word": "爷爷",
+        "pinyin": "yéye",
+        "meaning": "할아버지",
+        "example": "我爷爷今年八十岁。",
+        "spoken": "爷爷"
+      },
+      {
+        "id": 487,
+        "word": "丈夫",
+        "pinyin": "zhàngfu",
+        "meaning": "남편",
+        "example": "她的丈夫是医生。",
+        "spoken": "丈夫"
+      },
+      {
+        "id": 494,
+        "word": "自己",
+        "pinyin": "zìjǐ",
+        "meaning": "자기, 스스로",
+        "example": "这是我自己的书。",
+        "spoken": "自己"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=02"
+  },
+  {
+    "page": 3,
+    "category": "학교와 학습",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 304,
+        "word": "班",
+        "pinyin": "bān",
+        "meaning": "반(班)",
+        "example": "我们班有三十个学生。",
+        "spoken": "班"
+      },
+      {
+        "id": 308,
+        "word": "本子",
+        "pinyin": "běnzi",
+        "meaning": "공책",
+        "example": "这是我的本子。",
+        "spoken": "本子"
+      },
+      {
+        "id": 310,
+        "word": "笔",
+        "pinyin": "bǐ",
+        "meaning": "펜 / 자루(양사)",
+        "example": "请给我一支笔。",
+        "spoken": "笔"
+      },
+      {
+        "id": 322,
+        "word": "词",
+        "pinyin": "cí",
+        "meaning": "단어",
+        "example": "这个词是什么意思？",
+        "spoken": "词"
+      },
+      {
+        "id": 338,
+        "word": "懂",
+        "pinyin": "dǒng",
+        "meaning": "이해하다",
+        "example": "你懂我的意思吗？",
+        "spoken": "懂"
+      },
+      {
+        "id": 343,
+        "word": "高中",
+        "pinyin": "gāozhōng",
+        "meaning": "고등학교",
+        "example": "我姐姐上高中了。",
+        "spoken": "高中"
+      },
+      {
+        "id": 364,
+        "word": "教",
+        "pinyin": "jiāo",
+        "meaning": "가르치다",
+        "example": "老师教我们汉语。",
+        "spoken": "教"
+      },
+      {
+        "id": 365,
+        "word": "教室",
+        "pinyin": "jiàoshì",
+        "meaning": "교실",
+        "example": "教室里有很多学生。",
+        "spoken": "教室"
+      },
+      {
+        "id": 367,
+        "word": "记得",
+        "pinyin": "jìde",
+        "meaning": "기억하다",
+        "example": "你还记得我吗？",
+        "spoken": "记得"
+      },
+      {
+        "id": 379,
+        "word": "开学",
+        "pinyin": "kāixué",
+        "meaning": "개학하다",
+        "example": "九月一号开学。",
+        "spoken": "开学"
+      },
+      {
+        "id": 380,
+        "word": "考",
+        "pinyin": "kǎo",
+        "meaning": "시험 보다",
+        "example": "明天要考汉语。",
+        "spoken": "考"
+      },
+      {
+        "id": 381,
+        "word": "考试",
+        "pinyin": "kǎoshì",
+        "meaning": "시험 보다 / 시험",
+        "example": "我明天有考试。",
+        "spoken": "考试"
+      },
+      {
+        "id": 441,
+        "word": "题",
+        "pinyin": "tí",
+        "meaning": "문제",
+        "example": "这道题很难。",
+        "spoken": "题"
+      },
+      {
+        "id": 450,
+        "word": "忘",
+        "pinyin": "wàng",
+        "meaning": "잊다",
+        "example": "我忘了他的名字。",
+        "spoken": "忘"
+      },
+      {
+        "id": 476,
+        "word": "意思",
+        "pinyin": "yìsi",
+        "meaning": "뜻, 의미",
+        "example": "这句话是什么意思？",
+        "spoken": "意思"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=03"
+  },
+  {
+    "page": 4,
+    "category": "음식과 주문",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 335,
+        "word": "点2",
+        "pinyin": "diǎn",
+        "meaning": "주문하다 / 시(時)",
+        "example": "我们点菜吧。",
+        "spoken": "点"
+      },
+      {
+        "id": 339,
+        "word": "饭馆",
+        "pinyin": "fànguǎn",
+        "meaning": "식당",
+        "example": "这家饭馆的菜很好吃。",
+        "spoken": "饭馆"
+      },
+      {
+        "id": 354,
+        "word": "红茶",
+        "pinyin": "hóngchá",
+        "meaning": "홍차",
+        "example": "我喜欢喝红茶。",
+        "spoken": "红茶"
+      },
+      {
+        "id": 377,
+        "word": "咖啡",
+        "pinyin": "kāfēi",
+        "meaning": "커피",
+        "example": "我每天喝咖啡。",
+        "spoken": "咖啡"
+      },
+      {
+        "id": 393,
+        "word": "绿茶",
+        "pinyin": "lǜchá",
+        "meaning": "녹차",
+        "example": "我想喝绿茶。",
+        "spoken": "绿茶"
+      },
+      {
+        "id": 403,
+        "word": "面1",
+        "pinyin": "miàn",
+        "meaning": "국수 / 얼굴, 표면(접미사)",
+        "example": "我喜欢吃面。",
+        "spoken": "面"
+      },
+      {
+        "id": 406,
+        "word": "奶茶",
+        "pinyin": "nǎichá",
+        "meaning": "밀크티",
+        "example": "我想喝奶茶。",
+        "spoken": "奶茶"
+      },
+      {
+        "id": 423,
+        "word": "肉",
+        "pinyin": "ròu",
+        "meaning": "고기",
+        "example": "我不吃肉。",
+        "spoken": "肉"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=04"
+  },
+  {
+    "page": 5,
+    "category": "집과 일상생활",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 307,
+        "word": "包",
+        "pinyin": "bāo",
+        "meaning": "싸다 / 가방 / 개(양사)",
+        "example": "我的包在椅子上。",
+        "spoken": "包"
+      },
+      {
+        "id": 317,
+        "word": "床",
+        "pinyin": "chuáng",
+        "meaning": "침대",
+        "example": "我的床很舒服。",
+        "spoken": "床"
+      },
+      {
+        "id": 329,
+        "word": "打开",
+        "pinyin": "dǎkāi",
+        "meaning": "열다, 켜다",
+        "example": "请打开门。",
+        "spoken": "打开"
+      },
+      {
+        "id": 386,
+        "word": "裤子",
+        "pinyin": "kùzi",
+        "meaning": "바지",
+        "example": "我买了一条裤子。",
+        "spoken": "裤子"
+      },
+      {
+        "id": 391,
+        "word": "楼",
+        "pinyin": "lóu",
+        "meaning": "층, 건물",
+        "example": "我住在五楼。",
+        "spoken": "楼"
+      },
+      {
+        "id": 400,
+        "word": "门",
+        "pinyin": "mén",
+        "meaning": "문",
+        "example": "门在那边。",
+        "spoken": "门"
+      },
+      {
+        "id": 401,
+        "word": "门口",
+        "pinyin": "ménkǒu",
+        "meaning": "입구",
+        "example": "我在门口等你。",
+        "spoken": "门口"
+      },
+      {
+        "id": 405,
+        "word": "拿",
+        "pinyin": "ná",
+        "meaning": "잡다, 들다",
+        "example": "请帮我拿一下这本书。",
+        "spoken": "拿"
+      },
+      {
+        "id": 434,
+        "word": "手表",
+        "pinyin": "shǒubiǎo",
+        "meaning": "손목시계",
+        "example": "这块手表很贵。",
+        "spoken": "手表"
+      },
+      {
+        "id": 435,
+        "word": "书包",
+        "pinyin": "shūbāo",
+        "meaning": "책가방",
+        "example": "我的书包在椅子上。",
+        "spoken": "书包"
+      },
+      {
+        "id": 455,
+        "word": "洗",
+        "pinyin": "xǐ",
+        "meaning": "씻다",
+        "example": "我在洗衣服。",
+        "spoken": "洗"
+      },
+      {
+        "id": 464,
+        "word": "洗手间",
+        "pinyin": "xǐshǒujiān",
+        "meaning": "화장실",
+        "example": "洗手间在二楼。",
+        "spoken": "洗手间"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=05"
+  },
+  {
+    "page": 6,
+    "category": "교통과 여행",
+    "part": 1,
+    "parts": 2,
+    "words": [
+      {
+        "id": 315,
+        "word": "车站",
+        "pinyin": "chēzhàn",
+        "meaning": "정류장, 역",
+        "example": "车站离这里不远。",
+        "spoken": "车站"
+      },
+      {
+        "id": 318,
+        "word": "出国",
+        "pinyin": "chūguó",
+        "meaning": "출국하다",
+        "example": "他明年要出国。",
+        "spoken": "出国"
+      },
+      {
+        "id": 328,
+        "word": "打车",
+        "pinyin": "dǎchē",
+        "meaning": "택시를 타다",
+        "example": "我们打车去吧。",
+        "spoken": "打车"
+      },
+      {
+        "id": 336,
+        "word": "地铁",
+        "pinyin": "dìtiě",
+        "meaning": "지하철",
+        "example": "我坐地铁上班。",
+        "spoken": "地铁"
+      },
+      {
+        "id": 346,
+        "word": "公交车",
+        "pinyin": "gōngjiāochē",
+        "meaning": "버스",
+        "example": "我坐公交车上班。",
+        "spoken": "公交车"
+      },
+      {
+        "id": 366,
+        "word": "机场",
+        "pinyin": "jīchǎng",
+        "meaning": "공항",
+        "example": "我们在机场见面。",
+        "spoken": "机场"
+      },
+      {
+        "id": 374,
+        "word": "机票",
+        "pinyin": "jīpiào",
+        "meaning": "비행기표",
+        "example": "我买了一张机票。",
+        "spoken": "机票"
+      },
+      {
+        "id": 376,
+        "word": "酒店",
+        "pinyin": "jiǔdiàn",
+        "meaning": "호텔",
+        "example": "我们住在这家酒店。",
+        "spoken": "酒店"
+      },
+      {
+        "id": 392,
+        "word": "路",
+        "pinyin": "lù",
+        "meaning": "길",
+        "example": "去学校的路很远。",
+        "spoken": "路"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=06"
+  },
+  {
+    "page": 7,
+    "category": "교통과 여행",
+    "part": 2,
+    "parts": 2,
+    "words": [
+      {
+        "id": 395,
+        "word": "路上",
+        "pinyin": "lùshang",
+        "meaning": "길 위, 도중",
+        "example": "路上人很多。",
+        "spoken": "路上"
+      },
+      {
+        "id": 396,
+        "word": "旅游",
+        "pinyin": "lǚyóu",
+        "meaning": "여행하다",
+        "example": "我喜欢去中国旅游。",
+        "spoken": "旅游"
+      },
+      {
+        "id": 402,
+        "word": "门票",
+        "pinyin": "ménpiào",
+        "meaning": "입장권",
+        "example": "一张门票多少钱？",
+        "spoken": "门票"
+      },
+      {
+        "id": 416,
+        "word": "票",
+        "pinyin": "piào",
+        "meaning": "표",
+        "example": "请给我一张票。",
+        "spoken": "票"
+      },
+      {
+        "id": 424,
+        "word": "商场",
+        "pinyin": "shāngchǎng",
+        "meaning": "백화점, 쇼핑몰",
+        "example": "我们去商场买衣服。",
+        "spoken": "商场"
+      },
+      {
+        "id": 446,
+        "word": "外国",
+        "pinyin": "wàiguó",
+        "meaning": "외국",
+        "example": "他是外国人。",
+        "spoken": "外国"
+      },
+      {
+        "id": 486,
+        "word": "站1",
+        "pinyin": "zhàn",
+        "meaning": "역, 정류장",
+        "example": "前面就是车站。",
+        "spoken": "站"
+      },
+      {
+        "id": 495,
+        "word": "走",
+        "pinyin": "zǒu",
+        "meaning": "걷다, 가다",
+        "example": "我们走吧。",
+        "spoken": "走"
+      },
+      {
+        "id": 496,
+        "word": "走路",
+        "pinyin": "zǒulù",
+        "meaning": "길을 걷다",
+        "example": "我每天走路上班。",
+        "spoken": "走路"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=07"
+  },
+  {
+    "page": 8,
+    "category": "이동과 방향 동작",
+    "part": 1,
+    "parts": 2,
+    "words": [
+      {
+        "id": 316,
+        "word": "出",
+        "pinyin": "chū",
+        "meaning": "나가다, 나오다",
+        "example": "这本书是去年出的。",
+        "spoken": "出"
+      },
+      {
+        "id": 319,
+        "word": "出来",
+        "pinyin": "chūlái",
+        "meaning": "나오다",
+        "example": "请你出来一下。",
+        "spoken": "出来"
+      },
+      {
+        "id": 320,
+        "word": "出门",
+        "pinyin": "chūmén",
+        "meaning": "외출하다",
+        "example": "我每天八点出门。",
+        "spoken": "出门"
+      },
+      {
+        "id": 321,
+        "word": "出去",
+        "pinyin": "chūqù",
+        "meaning": "나가다",
+        "example": "我们出去玩吧。",
+        "spoken": "出去"
+      },
+      {
+        "id": 340,
+        "word": "飞",
+        "pinyin": "fēi",
+        "meaning": "날다",
+        "example": "小鸟在天上飞。",
+        "spoken": "飞"
+      },
+      {
+        "id": 349,
+        "word": "过来",
+        "pinyin": "guòlái",
+        "meaning": "오다, 다가오다",
+        "example": "请你过来一下。",
+        "spoken": "过来"
+      },
+      {
+        "id": 351,
+        "word": "过去1",
+        "pinyin": "guòqù",
+        "meaning": "지나가다",
+        "example": "他向前走过去了。",
+        "spoken": "过去"
+      },
+      {
+        "id": 361,
+        "word": "回来",
+        "pinyin": "huílái",
+        "meaning": "돌아오다",
+        "example": "他什么时候回来？",
+        "spoken": "回来"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=08"
+  },
+  {
+    "page": 9,
+    "category": "이동과 방향 동작",
+    "part": 2,
+    "parts": 2,
+    "words": [
+      {
+        "id": 362,
+        "word": "回去",
+        "pinyin": "huíqù",
+        "meaning": "돌아가다",
+        "example": "我要回去了。",
+        "spoken": "回去"
+      },
+      {
+        "id": 369,
+        "word": "进",
+        "pinyin": "jìn",
+        "meaning": "들어가다",
+        "example": "请进。",
+        "spoken": "进"
+      },
+      {
+        "id": 372,
+        "word": "进来",
+        "pinyin": "jìnlái",
+        "meaning": "들어오다",
+        "example": "请进来坐。",
+        "spoken": "进来"
+      },
+      {
+        "id": 373,
+        "word": "进去",
+        "pinyin": "jìnqù",
+        "meaning": "들어가다",
+        "example": "我们进去吧。",
+        "spoken": "进去"
+      },
+      {
+        "id": 418,
+        "word": "起来",
+        "pinyin": "qǐlái",
+        "meaning": "일어나다",
+        "example": "请站起来。",
+        "spoken": "起来"
+      },
+      {
+        "id": 425,
+        "word": "上来",
+        "pinyin": "shànglái",
+        "meaning": "올라오다",
+        "example": "请你上来吧。",
+        "spoken": "上来"
+      },
+      {
+        "id": 427,
+        "word": "上去",
+        "pinyin": "shàngqù",
+        "meaning": "올라가다",
+        "example": "我们一起上去吧。",
+        "spoken": "上去"
+      },
+      {
+        "id": 456,
+        "word": "下来",
+        "pinyin": "xiàlái",
+        "meaning": "내려오다",
+        "example": "请你下来吧。",
+        "spoken": "下来"
+      },
+      {
+        "id": 461,
+        "word": "下去",
+        "pinyin": "xiàqù",
+        "meaning": "내려가다",
+        "example": "请你下去吧。",
+        "spoken": "下去"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=09"
+  },
+  {
+    "page": 10,
+    "category": "위치와 거리",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 356,
+        "word": "后面",
+        "pinyin": "hòumiàn",
+        "meaning": "뒤쪽",
+        "example": "我坐在他后面。",
+        "spoken": "后面"
+      },
+      {
+        "id": 370,
+        "word": "近",
+        "pinyin": "jìn",
+        "meaning": "가깝다",
+        "example": "学校离我家很近。",
+        "spoken": "近"
+      },
+      {
+        "id": 390,
+        "word": "里面",
+        "pinyin": "lǐmiàn",
+        "meaning": "안쪽",
+        "example": "房间里面有一张桌子。",
+        "spoken": "里面"
+      },
+      {
+        "id": 413,
+        "word": "旁边",
+        "pinyin": "pángbiān",
+        "meaning": "옆",
+        "example": "我坐在他旁边。",
+        "spoken": "旁边"
+      },
+      {
+        "id": 417,
+        "word": "前面",
+        "pinyin": "qiánmiàn",
+        "meaning": "앞쪽",
+        "example": "前面有一家饭馆。",
+        "spoken": "前面"
+      },
+      {
+        "id": 426,
+        "word": "上面",
+        "pinyin": "shàngmiàn",
+        "meaning": "위쪽",
+        "example": "书在桌子上面。",
+        "spoken": "上面"
+      },
+      {
+        "id": 447,
+        "word": "外面",
+        "pinyin": "wàimiàn",
+        "meaning": "바깥, 밖",
+        "example": "外面在下雨。",
+        "spoken": "外面"
+      },
+      {
+        "id": 451,
+        "word": "往",
+        "pinyin": "wǎng",
+        "meaning": "~쪽으로 / 향하다",
+        "example": "一直往前走。",
+        "spoken": "往"
+      },
+      {
+        "id": 457,
+        "word": "下面",
+        "pinyin": "xiàmiàn",
+        "meaning": "아래쪽",
+        "example": "书在桌子下面。",
+        "spoken": "下面"
+      },
+      {
+        "id": 478,
+        "word": "右",
+        "pinyin": "yòu",
+        "meaning": "오른쪽",
+        "example": "往右走。",
+        "spoken": "右"
+      },
+      {
+        "id": 480,
+        "word": "右边",
+        "pinyin": "yòubian",
+        "meaning": "오른쪽",
+        "example": "商店在右边。",
+        "spoken": "右边"
+      },
+      {
+        "id": 484,
+        "word": "远",
+        "pinyin": "yuǎn",
+        "meaning": "멀다",
+        "example": "学校离我家很远。",
+        "spoken": "远"
+      },
+      {
+        "id": 498,
+        "word": "左",
+        "pinyin": "zuǒ",
+        "meaning": "왼쪽",
+        "example": "往左走。",
+        "spoken": "左"
+      },
+      {
+        "id": 499,
+        "word": "左边",
+        "pinyin": "zuǒbian",
+        "meaning": "왼쪽",
+        "example": "书店在左边。",
+        "spoken": "左边"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=10"
+  },
+  {
+    "page": 11,
+    "category": "취미와 운동",
+    "part": 1,
+    "parts": 2,
+    "words": [
+      {
+        "id": 302,
+        "word": "爱好",
+        "pinyin": "àihào",
+        "meaning": "취미 / 좋아하다",
+        "example": "我的爱好是唱歌。",
+        "spoken": "爱好"
+      },
+      {
+        "id": 327,
+        "word": "打1",
+        "pinyin": "dǎ",
+        "meaning": "치다, 때리다",
+        "example": "我在打电话。",
+        "spoken": "打"
+      },
+      {
+        "id": 337,
+        "word": "动",
+        "pinyin": "dòng",
+        "meaning": "움직이다",
+        "example": "别动！",
+        "spoken": "动"
+      },
+      {
+        "id": 357,
+        "word": "画",
+        "pinyin": "huà",
+        "meaning": "그리다 / 그림",
+        "example": "她画得很好看。",
+        "spoken": "画"
+      },
+      {
+        "id": 387,
+        "word": "篮球",
+        "pinyin": "lánqiú",
+        "meaning": "농구",
+        "example": "他喜欢打篮球。",
+        "spoken": "篮球"
+      },
+      {
+        "id": 414,
+        "word": "跑",
+        "pinyin": "pǎo",
+        "meaning": "뛰다, 달리다",
+        "example": "他跑得很快。",
+        "spoken": "跑"
+      },
+      {
+        "id": 415,
+        "word": "跑步",
+        "pinyin": "pǎobù",
+        "meaning": "조깅하다, 달리기하다",
+        "example": "我每天早上跑步。",
+        "spoken": "跑步"
+      },
+      {
+        "id": 420,
+        "word": "球",
+        "pinyin": "qiú",
+        "meaning": "공",
+        "example": "他喜欢打球。",
+        "spoken": "球"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=11"
+  },
+  {
+    "page": 12,
+    "category": "취미와 운동",
+    "part": 2,
+    "parts": 2,
+    "words": [
+      {
+        "id": 428,
+        "word": "上网",
+        "pinyin": "shàngwǎng",
+        "meaning": "인터넷을 하다",
+        "example": "我在家上网。",
+        "spoken": "上网"
+      },
+      {
+        "id": 442,
+        "word": "踢",
+        "pinyin": "tī",
+        "meaning": "(발로) 차다",
+        "example": "他喜欢踢足球。",
+        "spoken": "踢"
+      },
+      {
+        "id": 444,
+        "word": "跳舞",
+        "pinyin": "tiàowǔ",
+        "meaning": "춤추다",
+        "example": "她喜欢跳舞。",
+        "spoken": "跳舞"
+      },
+      {
+        "id": 452,
+        "word": "网上",
+        "pinyin": "wǎngshang",
+        "meaning": "인터넷 상",
+        "example": "我在网上买东西。",
+        "spoken": "网上"
+      },
+      {
+        "id": 477,
+        "word": "游",
+        "pinyin": "yóu",
+        "meaning": "헤엄치다",
+        "example": "鱼在水里游。",
+        "spoken": "游"
+      },
+      {
+        "id": 482,
+        "word": "游泳",
+        "pinyin": "yóuyǒng",
+        "meaning": "수영하다",
+        "example": "我喜欢游泳。",
+        "spoken": "游泳"
+      },
+      {
+        "id": 485,
+        "word": "运动",
+        "pinyin": "yùndòng",
+        "meaning": "운동하다 / 운동",
+        "example": "我每天运动。",
+        "spoken": "运动"
+      },
+      {
+        "id": 500,
+        "word": "足球",
+        "pinyin": "zúqiú",
+        "meaning": "축구",
+        "example": "我们一起踢足球吧。",
+        "spoken": "足球"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=12"
+  },
+  {
+    "page": 13,
+    "category": "자연과 색깔",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 303,
+        "word": "白色",
+        "pinyin": "báisè",
+        "meaning": "흰색",
+        "example": "我喜欢白色的衣服。",
+        "spoken": "白色"
+      },
+      {
+        "id": 353,
+        "word": "黑色",
+        "pinyin": "hēisè",
+        "meaning": "검은색",
+        "example": "他穿黑色的衣服。",
+        "spoken": "黑色"
+      },
+      {
+        "id": 355,
+        "word": "红色",
+        "pinyin": "hóngsè",
+        "meaning": "빨간색",
+        "example": "这件衣服是红色的。",
+        "spoken": "红色"
+      },
+      {
+        "id": 359,
+        "word": "花2",
+        "pinyin": "huā",
+        "meaning": "꽃",
+        "example": "桌子上有花。",
+        "spoken": "花"
+      },
+      {
+        "id": 394,
+        "word": "绿色",
+        "pinyin": "lǜsè",
+        "meaning": "녹색",
+        "example": "他喜欢绿色。",
+        "spoken": "绿色"
+      },
+      {
+        "id": 411,
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "meaning": "새",
+        "example": "树上有一只鸟。",
+        "spoken": "鸟"
+      },
+      {
+        "id": 419,
+        "word": "晴",
+        "pinyin": "qíng",
+        "meaning": "맑다",
+        "example": "今天天气很晴。",
+        "spoken": "晴"
+      },
+      {
+        "id": 467,
+        "word": "颜色",
+        "pinyin": "yánsè",
+        "meaning": "색깔",
+        "example": "你喜欢什么颜色？",
+        "spoken": "颜色"
+      },
+      {
+        "id": 473,
+        "word": "阴",
+        "pinyin": "yīn",
+        "meaning": "흐리다",
+        "example": "今天是阴天。",
+        "spoken": "阴"
+      },
+      {
+        "id": 483,
+        "word": "鱼",
+        "pinyin": "yú",
+        "meaning": "물고기",
+        "example": "我喜欢吃鱼。",
+        "spoken": "鱼"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=13"
+  },
+  {
+    "page": 14,
+    "category": "몸과 건강",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 345,
+        "word": "个子",
+        "pinyin": "gèzi",
+        "meaning": "키(신장)",
+        "example": "他的个子很高。",
+        "spoken": "个子"
+      },
+      {
+        "id": 388,
+        "word": "累",
+        "pinyin": "lèi",
+        "meaning": "피곤하다",
+        "example": "我今天很累。",
+        "spoken": "累"
+      },
+      {
+        "id": 430,
+        "word": "身体",
+        "pinyin": "shēntǐ",
+        "meaning": "몸, 신체",
+        "example": "你的身体好吗？",
+        "spoken": "身体"
+      },
+      {
+        "id": 433,
+        "word": "手",
+        "pinyin": "shǒu",
+        "meaning": "손",
+        "example": "他的手很大。",
+        "spoken": "手"
+      },
+      {
+        "id": 436,
+        "word": "舒服",
+        "pinyin": "shūfu",
+        "meaning": "편안하다",
+        "example": "我今天不舒服。",
+        "spoken": "舒服"
+      },
+      {
+        "id": 440,
+        "word": "疼",
+        "pinyin": "téng",
+        "meaning": "아프다",
+        "example": "我头疼。",
+        "spoken": "疼"
+      },
+      {
+        "id": 445,
+        "word": "头",
+        "pinyin": "tóu",
+        "meaning": "머리 / 마리(양사)",
+        "example": "他的头很大。",
+        "spoken": "头"
+      },
+      {
+        "id": 466,
+        "word": "眼睛",
+        "pinyin": "yǎnjing",
+        "meaning": "눈(신체)",
+        "example": "她的眼睛很漂亮。",
+        "spoken": "眼睛"
+      },
+      {
+        "id": 468,
+        "word": "药",
+        "pinyin": "yào",
+        "meaning": "약",
+        "example": "我要吃药。",
+        "spoken": "药"
+      },
+      {
+        "id": 469,
+        "word": "药店",
+        "pinyin": "yàodiàn",
+        "meaning": "약국",
+        "example": "药店在医院旁边。",
+        "spoken": "药店"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=14"
+  },
+  {
+    "page": 15,
+    "category": "상태와 감정",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 313,
+        "word": "不错",
+        "pinyin": "búcuò",
+        "meaning": "괜찮다, 좋다",
+        "example": "这家饭店不错。",
+        "spoken": "不错"
+      },
+      {
+        "id": 314,
+        "word": "长",
+        "pinyin": "cháng",
+        "meaning": "길다",
+        "example": "这条路很长。",
+        "spoken": "长"
+      },
+      {
+        "id": 326,
+        "word": "错",
+        "pinyin": "cuò",
+        "meaning": "틀리다",
+        "example": "这个答案是错的。",
+        "spoken": "错"
+      },
+      {
+        "id": 341,
+        "word": "高",
+        "pinyin": "gāo",
+        "meaning": "높다, 크다 / 키",
+        "example": "他个子很高。",
+        "spoken": "高"
+      },
+      {
+        "id": 360,
+        "word": "坏",
+        "pinyin": "huài",
+        "meaning": "나쁘다, 고장 나다",
+        "example": "我的手机坏了。",
+        "spoken": "坏"
+      },
+      {
+        "id": 383,
+        "word": "快",
+        "pinyin": "kuài",
+        "meaning": "빠르다 / 빨리",
+        "example": "火车开得很快。",
+        "spoken": "快"
+      },
+      {
+        "id": 384,
+        "word": "快乐",
+        "pinyin": "kuàilè",
+        "meaning": "즐겁다",
+        "example": "生日快乐！",
+        "spoken": "快乐"
+      },
+      {
+        "id": 397,
+        "word": "慢",
+        "pinyin": "màn",
+        "meaning": "느리다",
+        "example": "他走得很慢。",
+        "spoken": "慢"
+      },
+      {
+        "id": 399,
+        "word": "没意思",
+        "pinyin": "méi yìsi",
+        "meaning": "재미없다",
+        "example": "这本书没意思。",
+        "spoken": "没意思"
+      },
+      {
+        "id": 465,
+        "word": "希望",
+        "pinyin": "xīwàng",
+        "meaning": "희망하다, 바라다",
+        "example": "我希望你能来。",
+        "spoken": "希望"
+      },
+      {
+        "id": 479,
+        "word": "有意思",
+        "pinyin": "yǒu yìsi",
+        "meaning": "재미있다",
+        "example": "这本书很有意思。",
+        "spoken": "有意思"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=15"
+  },
+  {
+    "page": 16,
+    "category": "시간과 일의 진행",
+    "part": 1,
+    "parts": 2,
+    "words": [
+      {
+        "id": 325,
+        "word": "从小",
+        "pinyin": "cóngxiǎo",
+        "meaning": "어려서부터",
+        "example": "他从小就喜欢唱歌。",
+        "spoken": "从小"
+      },
+      {
+        "id": 348,
+        "word": "过",
+        "pinyin": "guò",
+        "meaning": "지나다, 보내다",
+        "example": "时间过得很快。",
+        "spoken": "过"
+      },
+      {
+        "id": 350,
+        "word": "过年",
+        "pinyin": "guònián",
+        "meaning": "새해를 맞다",
+        "example": "我们一起过年吧。",
+        "spoken": "过年"
+      },
+      {
+        "id": 371,
+        "word": "经常",
+        "pinyin": "jīngcháng",
+        "meaning": "자주",
+        "example": "我经常喝咖啡。",
+        "spoken": "经常"
+      },
+      {
+        "id": 375,
+        "word": "就",
+        "pinyin": "jiù",
+        "meaning": "곧, 바로",
+        "example": "我马上就来。",
+        "spoken": "就"
+      },
+      {
+        "id": 378,
+        "word": "开始",
+        "pinyin": "kāishǐ",
+        "meaning": "시작하다 / 시작",
+        "example": "课开始了。",
+        "spoken": "开始"
+      },
+      {
+        "id": 385,
+        "word": "快要",
+        "pinyin": "kuàiyào",
+        "meaning": "곧 ~하려 하다",
+        "example": "快要下雨了。",
+        "spoken": "快要"
+      },
+      {
+        "id": 429,
+        "word": "生日",
+        "pinyin": "shēngrì",
+        "meaning": "생일",
+        "example": "今天是我的生日。",
+        "spoken": "生日"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=16"
+  },
+  {
+    "page": 17,
+    "category": "시간과 일의 진행",
+    "part": 2,
+    "parts": 2,
+    "words": [
+      {
+        "id": 431,
+        "word": "时",
+        "pinyin": "shí",
+        "meaning": "때, ~할 때",
+        "example": "睡觉时不要说话。",
+        "spoken": "时"
+      },
+      {
+        "id": 432,
+        "word": "事情",
+        "pinyin": "shìqing",
+        "meaning": "일",
+        "example": "我有一件事情要问你。",
+        "spoken": "事情"
+      },
+      {
+        "id": 448,
+        "word": "完",
+        "pinyin": "wán",
+        "meaning": "끝나다, 다 하다",
+        "example": "我吃完饭了。",
+        "spoken": "完"
+      },
+      {
+        "id": 460,
+        "word": "小时候",
+        "pinyin": "xiǎoshíhou",
+        "meaning": "어릴 때",
+        "example": "小时候我住在北京。",
+        "spoken": "小时候"
+      },
+      {
+        "id": 471,
+        "word": "一会儿",
+        "pinyin": "yíhuìr",
+        "meaning": "잠시, 잠깐",
+        "example": "请等一会儿。",
+        "spoken": "一会儿"
+      },
+      {
+        "id": 472,
+        "word": "已经",
+        "pinyin": "yǐjīng",
+        "meaning": "이미",
+        "example": "他已经走了。",
+        "spoken": "已经"
+      },
+      {
+        "id": 481,
+        "word": "有时（候）",
+        "pinyin": "yǒushí(hou)",
+        "meaning": "때때로",
+        "example": "我有时候很忙。",
+        "spoken": "有时候"
+      },
+      {
+        "id": 492,
+        "word": "周",
+        "pinyin": "zhōu",
+        "meaning": "주(週)",
+        "example": "我们下周见。",
+        "spoken": "周"
+      },
+      {
+        "id": 493,
+        "word": "准备",
+        "pinyin": "zhǔnbèi",
+        "meaning": "준비하다",
+        "example": "我在准备考试。",
+        "spoken": "准备"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=17"
+  },
+  {
+    "page": 18,
+    "category": "수량과 단위",
+    "part": 1,
+    "parts": 1,
+    "words": [
+      {
+        "id": 323,
+        "word": "次",
+        "pinyin": "cì",
+        "meaning": "번, 회(양사) / 다음의",
+        "example": "我去过一次北京。",
+        "spoken": "次"
+      },
+      {
+        "id": 358,
+        "word": "花1",
+        "pinyin": "huā",
+        "meaning": "(돈, 시간을) 쓰다",
+        "example": "我花了很多钱。",
+        "spoken": "花"
+      },
+      {
+        "id": 363,
+        "word": "间",
+        "pinyin": "jiān",
+        "meaning": "칸, 채(양사) / 사이",
+        "example": "这间房间很大。",
+        "spoken": "间"
+      },
+      {
+        "id": 398,
+        "word": "每",
+        "pinyin": "měi",
+        "meaning": "매, ~마다",
+        "example": "我每天七点起床。",
+        "spoken": "每"
+      },
+      {
+        "id": 404,
+        "word": "名",
+        "pinyin": "míng",
+        "meaning": "이름 / 명(양사)",
+        "example": "他是一名老师。",
+        "spoken": "名"
+      },
+      {
+        "id": 443,
+        "word": "条",
+        "pinyin": "tiáo",
+        "meaning": "가늘고 긴 것을 세는 양사 / 줄기",
+        "example": "那条路很长。",
+        "spoken": "条"
+      },
+      {
+        "id": 449,
+        "word": "万",
+        "pinyin": "wàn",
+        "meaning": "만, 10000",
+        "example": "一万块钱不少。",
+        "spoken": "万"
+      },
+      {
+        "id": 453,
+        "word": "位",
+        "pinyin": "wèi",
+        "meaning": "분(양사)",
+        "example": "这位是我的老师。",
+        "spoken": "位"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=18"
+  },
+  {
+    "page": 19,
+    "category": "문장을 잇는 말",
+    "part": 1,
+    "parts": 2,
+    "words": [
+      {
+        "id": 309,
+        "word": "比",
+        "pinyin": "bǐ",
+        "meaning": "비교하다 / ~보다(개사)",
+        "example": "今天比昨天冷。",
+        "spoken": "比"
+      },
+      {
+        "id": 311,
+        "word": "别1",
+        "pinyin": "bié",
+        "meaning": "~하지 마라",
+        "example": "别说话。",
+        "spoken": "别"
+      },
+      {
+        "id": 324,
+        "word": "从",
+        "pinyin": "cóng",
+        "meaning": "~에서, ~부터",
+        "example": "我从北京来。",
+        "spoken": "从"
+      },
+      {
+        "id": 330,
+        "word": "但",
+        "pinyin": "dàn",
+        "meaning": "그러나",
+        "example": "他很忙，但他还是来了。",
+        "spoken": "但"
+      },
+      {
+        "id": 331,
+        "word": "但是",
+        "pinyin": "dànshì",
+        "meaning": "그러나",
+        "example": "我想去，但是没有时间。",
+        "spoken": "但是"
+      },
+      {
+        "id": 332,
+        "word": "得",
+        "pinyin": "de",
+        "meaning": "~하게(정도보어 조사)",
+        "example": "他跑得很快。",
+        "spoken": "得"
+      },
+      {
+        "id": 333,
+        "word": "地",
+        "pinyin": "de",
+        "meaning": "~하게(부사어 조사)",
+        "example": "他慢慢地走。",
+        "spoken": "地"
+      },
+      {
+        "id": 334,
+        "word": "等1",
+        "pinyin": "děng",
+        "meaning": "기다리다 / ~까지(개사)",
+        "example": "请等我一下。",
+        "spoken": "等"
+      },
+      {
+        "id": 344,
+        "word": "跟",
+        "pinyin": "gēn",
+        "meaning": "~와 함께 / 그리고",
+        "example": "我跟你一起去。",
+        "spoken": "跟"
+      },
+      {
+        "id": 347,
+        "word": "过",
+        "pinyin": "guo",
+        "meaning": "~한 적이 있다(경험 조사)",
+        "example": "我去过中国。",
+        "spoken": "过"
+      },
+      {
+        "id": 352,
+        "word": "还是",
+        "pinyin": "háishi",
+        "meaning": "아니면 / 여전히",
+        "example": "你要喝茶还是咖啡？",
+        "spoken": "还是"
+      },
+      {
+        "id": 382,
+        "word": "可能",
+        "pinyin": "kěnéng",
+        "meaning": "아마도 / 가능성 / 가능하다",
+        "example": "明天可能下雨。",
+        "spoken": "可能"
+      },
+      {
+        "id": 389,
+        "word": "离",
+        "pinyin": "lí",
+        "meaning": "~에서, ~로부터",
+        "example": "车站离这儿不远。",
+        "spoken": "离"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=19"
+  },
+  {
+    "page": 20,
+    "category": "문장을 잇는 말",
+    "part": 2,
+    "parts": 2,
+    "words": [
+      {
+        "id": 408,
+        "word": "那么",
+        "pinyin": "nàme",
+        "meaning": "그렇게 / 그러면",
+        "example": "别那么说。",
+        "spoken": "那么"
+      },
+      {
+        "id": 410,
+        "word": "那样",
+        "pinyin": "nàyàng",
+        "meaning": "그렇게",
+        "example": "我不喜欢那样。",
+        "spoken": "那样"
+      },
+      {
+        "id": 422,
+        "word": "让",
+        "pinyin": "ràng",
+        "meaning": "~하게 하다",
+        "example": "妈妈让我早点儿回家。",
+        "spoken": "让"
+      },
+      {
+        "id": 438,
+        "word": "虽然",
+        "pinyin": "suīrán",
+        "meaning": "비록 ~이지만",
+        "example": "虽然很累，但是他还是来了。",
+        "spoken": "虽然"
+      },
+      {
+        "id": 439,
+        "word": "所以",
+        "pinyin": "suǒyǐ",
+        "meaning": "그래서",
+        "example": "天气冷，所以我穿了很多衣服。",
+        "spoken": "所以"
+      },
+      {
+        "id": 454,
+        "word": "为什么",
+        "pinyin": "wèi shénme",
+        "meaning": "왜",
+        "example": "你为什么不来？",
+        "spoken": "为什么"
+      },
+      {
+        "id": 474,
+        "word": "因为",
+        "pinyin": "yīnwèi",
+        "meaning": "~때문에",
+        "example": "因为下雨，所以我没有出门。",
+        "spoken": "因为"
+      },
+      {
+        "id": 475,
+        "word": "一起",
+        "pinyin": "yìqǐ",
+        "meaning": "함께",
+        "example": "我们一起去吧。",
+        "spoken": "一起"
+      },
+      {
+        "id": 488,
+        "word": "着",
+        "pinyin": "zhe",
+        "meaning": "~하고 있다(동작 지속 조사)",
+        "example": "他坐着看书。",
+        "spoken": "着"
+      },
+      {
+        "id": 489,
+        "word": "这么",
+        "pinyin": "zhème",
+        "meaning": "이렇게",
+        "example": "你怎么这么忙？",
+        "spoken": "这么"
+      },
+      {
+        "id": 490,
+        "word": "正",
+        "pinyin": "zhèng",
+        "meaning": "마침, ~하고 있는 중이다",
+        "example": "他正在吃饭。",
+        "spoken": "正"
+      },
+      {
+        "id": 491,
+        "word": "这样",
+        "pinyin": "zhèyàng",
+        "meaning": "이렇게",
+        "example": "别这样说。",
+        "spoken": "这样"
+      },
+      {
+        "id": 497,
+        "word": "最",
+        "pinyin": "zuì",
+        "meaning": "가장",
+        "example": "他是我最好的朋友。",
+        "spoken": "最"
+      }
+    ],
+    "url": "https://yanchunnu.github.io/-/hsk2-vocabulary/?page=20"
+  }
+]
