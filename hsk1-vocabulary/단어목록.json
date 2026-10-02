@@ -64,7 +64,7 @@
       {
         "id": 218,
         "word": "喂1",
-        "pinyin": "wèi",
+        "pinyin": "wéi",
         "meaning": "여보세요",
         "example": "喂，你好，请问是王先生吗？",
         "spoken": "喂"
@@ -1592,7 +1592,7 @@
         "id": 225,
         "word": "下",
         "pinyin": "xià",
-        "meaning": "아래 / 내리다, 타다 / 번(양사)",
+        "meaning": "아래 / 내리다 / 번(양사)",
         "example": "我在楼下等你。",
         "spoken": "下"
       }
