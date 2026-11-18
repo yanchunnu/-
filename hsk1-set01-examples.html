@@ -5,13 +5,13 @@
 <label for="part">듣기 부분</label><select id="part"><option value="all">전체 듣기 · 1~4부분</option><option value="1">第一部分 · 1–5번</option><option value="2">第二部分 · 6–10번</option><option value="3">第三部分 · 11–15번</option><option value="4">第四部分 · 16–20번</option></select>
 <label for="mode">음원 선택</label><select id="mode"><option value="full">예제 + 본문 5문항</option><option value="example">예제만 듣기</option></select>
 <h2 id="current"></h2><audio id="audio" controls preload="metadata"></audio><button id="start" type="button">선택한 음원 처음부터 듣기</button><p id="status" role="status" aria-live="polite"></p><ol id="tracks"></ol>
-<p class="note">각 부분의 예제와 본문은 두 번씩 들려줍니다. 문항 사이의 무음은 풀이 시간입니다. 본문 1~3부분은 기존 음원을 유지했으며, 4부분은 문장과 질문을 함께 읽습니다. 전체 듣기는 1~4부분 순서로 이어집니다.</p><p class="note">중국어 합성음성 · 학습용 음원</p></main>
+<p class="note">예제를 들은 뒤 추가 설명 없이 바로 문제 번호를 읽습니다. 번호는 문제집과 같은 1~20번입니다. 예제와 본문은 두 번씩 들려주며, 문항 사이의 무음은 풀이 시간입니다. 전체 듣기는 1~4부분 순서로 이어집니다.</p><p class="note">중국어 합성음성 · 학습용 음원</p></main>
 <script>
 'use strict';
 const part=document.querySelector('#part'),mode=document.querySelector('#mode'),audio=document.querySelector('#audio'),current=document.querySelector('#current'),status=document.querySelector('#status'),tracks=document.querySelector('#tracks');
 const params=new URLSearchParams(location.search);part.value=['all','1','2','3','4'].includes(params.get('part'))?params.get('part'):'all';mode.value=params.get('mode')==='example'?'example':'full';
 let queue=[],index=0;
-function fileFor(p,m){return 'hsk1-set01-examples/hsk1-set01-'+(m==='example'?'example'+p:'part'+p+'-with-example')+'.mp3'}
+function fileFor(p,m){return 'hsk1-set01-examples/hsk1-set01-'+(m==='example'?'example'+p:'part'+p+'-numbered-v2')+'.mp3'}
 function load(i,play){index=i;const p=queue[i];audio.src=fileFor(p,mode.value);current.textContent='듣기 제'+p+'부분 · '+(mode.value==='example'?'예제':'예제 + 본문');status.textContent='재생 버튼을 눌러 주세요.';if(play)audio.play().catch(()=>status.textContent='재생 버튼을 누르면 이어서 들을 수 있습니다.')}
 function choose(){audio.pause();queue=part.value==='all'?[1,2,3,4]:[Number(part.value)];tracks.replaceChildren();queue.forEach((p,i)=>{const li=document.createElement('li'),a=document.createElement('a');a.href=fileFor(p,mode.value);a.textContent='제'+p+'부분 MP3 열기 / 저장';a.download='';li.append(a);tracks.append(li)});history.replaceState(null,'','?part='+part.value+'&mode='+mode.value);load(0,false)}
 part.addEventListener('change',choose);mode.addEventListener('change',choose);document.querySelector('#start').addEventListener('click',()=>load(0,true));audio.addEventListener('ended',()=>{if(index+1<queue.length)load(index+1,true);else status.textContent='선택한 듣기를 마쳤습니다.'});audio.addEventListener('playing',()=>status.textContent='재생 중입니다.');audio.addEventListener('error',()=>status.textContent='음원을 불러오지 못했습니다. 인터넷 연결을 확인하거나 아래 MP3 링크를 이용해 주세요.');choose();
