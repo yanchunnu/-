@@ -1,0 +1,40 @@
+/* Typing test shared by every HSK vocabulary study page. */
+.mode-switch{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0 8px}
+.mode-switch button{flex:1 1 30%;min-height:48px;font-weight:700}
+.mode-switch button[aria-selected="true"]{background:#1e5988;color:white;border-color:#1e5988}
+#typing-test{margin:8px 0 20px}
+#typing-test h2{margin:0 0 8px;font-size:22px}
+#typing-test .test-help,#typing-test .range-note,#typing-test .enter-note,.range-preview,.prompt{color:#596574;font-size:14px;line-height:1.6;word-break:keep-all}
+.range-row{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0}
+.range-row label{display:flex;flex-direction:column;gap:6px;font-size:14px;font-weight:700;flex:1 1 120px}
+.range-row input,#answer{font:inherit;font-size:18px;padding:12px;border:1px solid #aab7c5;border-radius:10px;width:100%;background:white;color:#24384d}
+#answer{font-size:22px;line-height:1.4}
+.range-preview{min-height:1.5em;font-weight:600}
+.test-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.test-actions button{min-height:48px;background:#1e5988;color:white;border-color:#1e5988;font-weight:700}
+.test-actions button.secondary{background:white;color:#1e5988;border:1px solid #aab7c5}
+.question-card{background:#f7fafb;border:1px solid #d5e0e6;border-radius:14px;padding:16px}
+.q-progress{font-variant-numeric:tabular-nums;color:#596574;margin:0}
+.q-meta{margin:4px 0;color:#596574}
+.prompt{font-size:26px;font-weight:700;line-height:1.45;margin:12px 0;color:#16283c}
+.last-mark{min-height:1.5em;font-weight:700;margin:8px 0}
+.last-mark.is-right{color:#146c43}
+.last-mark.is-wrong{color:#9f1d1d}
+.tally{color:#24384d}
+.score-block{background:#f7fafb;border:1px solid #d5e0e6;border-radius:14px;padding:16px;margin:12px 0}
+.score-fraction{font-size:36px;font-weight:800;margin:0;font-variant-numeric:tabular-nums}
+.score-hundred{font-size:20px;margin:4px 0 0}
+.result-list{list-style:none;padding:0;margin:12px 0}
+.result-list li{padding:12px 14px;border-radius:10px;margin:8px 0;line-height:1.55}
+.result-list li.is-right{color:#146c43;background:#eef8f2}
+.result-list li.is-wrong{color:#9f1d1d;background:#fdecec}
+.result-list .result-key{font-weight:800}
+.result-list .result-prompt{font-weight:700}
+#test-message{color:#9f1d1d;min-height:1.4em}
+#typing-test button:focus-visible,#typing-test input:focus-visible,.mode-switch button:focus-visible{outline:3px solid #1e5988;outline-offset:2px}
+@media(max-width:550px){
+  .prompt{font-size:22px}
+  .score-fraction{font-size:32px}
+  #answer,.range-row input{font-size:18px}
+  .mode-switch button{padding:10px 8px}
+}
