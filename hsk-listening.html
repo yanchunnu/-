@@ -5,7 +5,7 @@ const q=new URLSearchParams(location.search);level.value=String(Math.min(6,Math.
 const base='https://raw.githubusercontent.com/yanchunnu/-/main/';let files=[],index=0;
 const partNames=['第一部分','第二部分','第三部分','第四部分'];
 const fullSets=new Set([1,2,3,4,5,6,7,8,9,10]);
-const hsk2FullSets=new Set([1,2,3,4,5]);
+const hsk2FullSets=new Set([1,2,3,4,5,6]);
 let fullFile=null,playingFull=false;
 function fileUrl(file){return fullFile?file:base+file}
 function makeFiles(l,s){const n=String(s).padStart(2,'0');if(l===1)return (fullSets.has(s)?[1,2,3,4]:[1,2,3]).map(p=>'hsk1-set'+n+'-part'+p+'.mp3');if(l===2)return hsk2FullSets.has(s)?[1,2,3].map(p=>'hsk2-set'+n+'-part'+p+'.mp3'):['set-'+n+'.mp3'];if(l===6)return ['hsk6-set'+n+'-listen.mp3'];return (l===3?['l1','l2','l3']:['l1','l2']).map(p=>'hsk'+l+'-set'+n+'-'+p+'.mp3')}
