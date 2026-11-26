@@ -9,7 +9,7 @@ const hsk2FullSets=new Set([1,2,3,4,5,6,7,8,9,10]);
 let fullFile=null,playingFull=false;
 const hsk3FullSets=new Set([1,2,3,4,5,6,7,8,9,10]);
 function isHsk3Full(){return level.value==='3'&&hsk3FullSets.has(Number(set.value))}
-const hsk4FullSets=new Set([1]);
+const hsk4FullSets=new Set([1,2]);
 function isHsk4Full(){return level.value==='4'&&hsk4FullSets.has(Number(set.value))}
 const hsk4PartNames=['听力 第一部分','听力 第二部分','口语'];
 function fileUrl(file){return fullFile?file:base+file}
